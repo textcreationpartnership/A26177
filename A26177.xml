@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on Bishop Overall's convocation-book, M. DC. VI. concerning the government of God's catholick church, and of the kingdoms of the whole world.</title>
+            <author>Atwood, William, d. 1705?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26177</idno>
+            <idno type="STC">Wing A4178</idno>
+            <idno type="STC">ESTC R40288</idno>
+            <idno type="EEBO-CITATION">18812426</idno>
+            <idno type="OCLC">ocm 18812426</idno>
+            <idno type="VID">108377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1663:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on Bishop Overall's convocation-book, M. DC. VI. concerning the government of God's catholick church, and of the kingdoms of the whole world.</title>
+                  <author>Atwood, William, d. 1705?</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>M. DC. XC. [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overall, John, 1560-1619. --  Bishop Overall's convocation book.</term>
+               <term>Jacobites.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108377:1"/>
+            <pb facs="tcp:108377:1"/>
+            <p>REFLECTIONS ON Biſhop Overall's CONVOCATION-BOOK, M.DC.VI.</p>
+            <p>CONCERNING THE GOVERNMENT OF GOD's CATHOLICK CHURCH; AND OF THE Kingdoms of the Whole World.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year M.DC.XC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108377:2"/>
+            <pb n="1" facs="tcp:108377:2"/>
+            <head>Reflections on Biſhop <hi>Overall</hi>'s Convocation-Book, <hi>1606. &amp;c.</hi>
+            </head>
+            <p>IT having been my purpoſe to conſider all Objections of any weight in themſelves, or from the Authority of Perſons, which ſhould occur to me againſt the Right of Their <hi>Preſent Majeſties,</hi> and the Juſtice of their Undertaking our Deliverance; I ought not to paſs by Biſhop <hi>Overall</hi>'s Convocation-Book, compos'd in the time of <hi>James</hi> I. Licenſed by the late Biſhop of <hi>Canterbury,</hi> ſince his diſowning this Government, and Printed, as it is to be preſumed, with a manifeſt Intention of undermining it; for every Man may diſcern, that the Scheme of Government there drawn for the whole World, is contrary to the Foundation of our Preſent Settlement: but tho the Hypotheſis is laid together with much Subtilty, nothing but Infalli<g ref="char:EOLhyphen"/>bility can give it Authority; and to me it ſeems a piece of Preſump<g ref="char:EOLhyphen"/>tion, only ſhort of that of the <hi>Romiſh</hi> Church. For having made a Collection from <hi>Sacred</hi> and <hi>Prophane</hi> Hiſtory, and the <hi>Apocryphal</hi> Writings, (tho of the laſt they ſay,<note place="margin">P. 64.</note> they mean not <hi>to attribute any Ca<g ref="char:EOLhyphen"/>nonical Authority unto them, nor to eſtabliſh any Point of Doctrine</hi>) they Canonically condemn, of Errors, all that agree not to their Inferences and Concluſions, upon a ſtate of Fact which at leaſt may be falſe.</p>
+            <p>This ſingle Obſervation might make it needleſs to conſider more particularly what is there ſaid, eſpecially, when I add this further, That it would make Scripture Examples under the <hi>Jewiſh</hi> State, to have the force of Precepts now: which if they have, then the Examples of <hi>Jehu</hi> in killing wicked King <hi>Joram,</hi> then his Subject; and of <hi>Othniel,</hi>
+               <note place="margin">P. 46. 2 Kings Judges.</note> and <hi>Ehud,</hi> who reſcued the <hi>Iſraelites,</hi> the one from the King of <hi>Moab,</hi> the other from the King of <hi>Meſopotamia,</hi> who had brought them un<g ref="char:EOLhyphen"/>der Subjection, may ſerve for Rules in the like Caſes. If they do not, then to what purpoſe do they in other Inſtances bring Preſidents of God's dealing with the <hi>Jews,</hi> of his chuſing and anointing their Kings, and the like?</p>
+            <p>With theſe Antidotes we may venture upon a further taſt of the Doctrines.</p>
+            <p>The Foundation of all, is the <hi>Patriarchal</hi> Power of <hi>Adam,</hi> which they ſuppoſe to have been abſolutely Monarchical all the World over; that <hi>Noah</hi> had the like <hi>Authority all his Life;</hi>
+               <note place="margin">P. 84.</note> but that he <hi>divided the whole World among his Three Sons;</hi> upon which they conclude, That if <hi>any Man affirm,</hi>
+               <note place="margin">Can. 35.</note> 
+               <hi>That God ever committed the Government of all the World, after</hi> Adam<hi>'s and</hi> Noah<hi>'s times, to any one Man to be the ſole and viſible Monarch of it, he doth greatly err.</hi> And another Error which they Canonically condemn, is of them who hold, that <hi>Chriſt</hi> doth <hi>not allow the diſtributing of this his one <g ref="char:V">Ʋ</g>niverſal Kingdom,</hi>
+               <note place="margin">Lib: 2. Can. 4. p. 147.</note> 
+               <hi>into divers Principalities and Kingdoms, to be Ruled by ſo many Kings, and <hi>Abſolute</hi> Princes under him.</hi>
+            </p>
+            <p>Upon the whole, the Fatherly Power was abſolute in <hi>Adam,</hi> then in <hi>Noah,</hi> then in his Three Sons together, and ever after in all the <hi>Princes</hi> in the World;<note place="margin">Can. 2.</note> and as they affirm in relation to <hi>Adam</hi>'s Mo<g ref="char:EOLhyphen"/>narchical Power, that it roſe not from any choice of the People; neither, ſay they, is it <hi>deduced by their Conſents naturally from them;</hi>
+               <note place="margin">P. 3.</note> Which is meant of the Powers which now are in the World. And yet, if I miſtake not, they elſewhere own, that the Conſent of the People may
+<pb n="2" facs="tcp:108377:3"/> be requiſite to the legitimating ſome Governments, when they juſti<g ref="char:EOLhyphen"/>fy <hi>Mattathias,</hi>
+               <note place="margin">P. 67.</note> who being moved with the Monſtrous Cruelty and Tyranny of <hi>Antiochus, made open</hi> reſiſtance; the Government of that Tyrant being not then either generally <hi>received by Submiſſion,</hi> or <hi>ſet<g ref="char:EOLhyphen"/>led by Continuance:</hi> wherein the Conſent or Submiſſion of the People is owned to be material. The conſequence of which will reach a Prince that Exerciſes a Power beyond what has been <hi>ſubmitted</hi> to, or <hi>ſetled.</hi>
+            </p>
+            <p>But admit their Notion of the Abſolute Power of the Father ſhould hold, while the World was but one Family, and the Father might be ſuppoſed to be the ſole Proprietor; I doubt they cannot advance one ſtep further, without meer Fictions of their own Imaginations, or as vain and uncertain Tradition.</p>
+            <p>If we attend to the ſacred Text, freed from their impoſing Com<g ref="char:EOLhyphen"/>ment, <hi>Noah</hi>'s Sons are by God himſelf made joynt Proprietors with him.<note place="margin">Gen. 9.1, 2.</note> For the Text ſays, <hi>God bleſſed</hi> Noah <hi>and his Sons, and ſaid unto them, Be fruitful and multiply, and repleniſh the earth.</hi>
+            </p>
+            <p>
+               <hi>And the fear of you, and the dread of you, ſhall be upon every Beaſt of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fiſhes of the ſea, into your hand are they delivered.</hi>
+            </p>
+            <p>If this Donation had no effect, as to the Sons in the life-time of the Father, neither according to the Patriarchal Scheme, could the youn<g ref="char:EOLhyphen"/>ger Sons have any Benefit in the life-time of the Elder; wherefore either here was a joynt Propriety in all, and conſequently the Diſtribu<g ref="char:EOLhyphen"/>tion muſt proceed from an expreſs or tacit Conſent of the Proprietors; or elſe they muſt be beholden to <hi>Jewiſh</hi> Tradition, for the eſtabliſhing their Chriſtian Canon, concerning Government.</p>
+            <p>For two things, I muſt confeſs, we are obliged to them.</p>
+            <p n="1">1. For pathetically deſcribing the unhappineſs of the <hi>Jews,</hi> and <hi>how Religion went in thoſe days,</hi>
+               <note place="margin">P. 72.</note> 
+               <hi>when the Prieſts had gotten the Reins into their own Hands.</hi>
+            </p>
+            <p n="2">2. For obſerving, That the <hi>Phariſees,</hi> the moſt proud and ſtub<g ref="char:EOLhyphen"/>born of the <hi>Jewiſh</hi> Sects,<note place="margin">P. 79.</note> were the only Men who refuſed to ſwear Allegiance to <hi>Herod</hi> and <hi>Caeſar;</hi>
+               <note place="margin">Can. 30.</note> yet they ſay, <hi>If any Man ſhall affirm,</hi> that <hi>Jaddus,</hi> the <hi>Jewiſh</hi> High Prieſt, having ſworn Allegiance to <hi>Darius,</hi> might have lawfully born Arms againſt him, he doth greatly err.</p>
+            <p>This is in a Canon which they raiſe from the Fact in <hi>Joſephus,</hi> of <hi>Jaddus</hi>'s refuſing to aſſiſt <hi>Alexander</hi> in his Wars, and becoming Tri<g ref="char:EOLhyphen"/>butary to the <hi>Macedonians,</hi> as he had been to the <hi>Perſians;</hi> and this after <hi>Alexander</hi> had overthrown <hi>Darius,</hi> who eſcaped by Flight. The <hi>Jewiſh</hi> High Prieſt ſeems to put words into the Mouth of our late Archbiſhop, returning for anſwer, <hi>That he might not yield there<g ref="char:EOLhyphen"/>to, becauſe he had taken an Oath of Allegiance to</hi> Darius, <hi>which he might not lawfully violate whilſt</hi> Darius <hi>lived.</hi>
+            </p>
+            <p>Compare this with the next Canon, according to the Analogy of their Doctrine, and ſee how it provides for the Security of <hi>Princes,</hi> and Obedience to their Governments.</p>
+            <p>
+               <note place="margin">Can. 31.</note>
+               <hi>If any Man therefore ſhall affirm either, That the</hi> Jews <hi>generally, both Prieſts and People, were not the Subjects of</hi> Alexander, <hi>after his Authority was ſetled amongſt them, as they had been before the Subjects of</hi> Babylon <hi>and</hi> Perſia; <hi>or that they were not all bound to pray for the long Life and Proſperity, both of</hi> Alexander, <hi>and his Empire, as they had been bound before to pray for the Life and Proſperity of the
+<pb n="3" facs="tcp:108377:3"/> other ſaid Kings and their Kingdoms, whilſt they liv'd un<g ref="char:EOLhyphen"/>der their Subjection; or conſequently, that they might lawfully upon any occaſion whatſoever, have offered Vio<g ref="char:EOLhyphen"/>lence and Deſtruction, either to their Perſons, or to their Kingdoms, for the long continuance and Proſperity whereof, they were bound to pray; or that, after the</hi> Jews <hi>were deliver<g ref="char:EOLhyphen"/>red from their Servitude under the Kings of</hi> Syria, <hi>and the Government over them, was ſetled in</hi> Mattathias's <hi>Poſteri<g ref="char:EOLhyphen"/>ty, it was lawful for the People upon any occaſion to have Rebelled againſt them, or to have offered Violence to their Perſons,</hi> He doth greatly err.</p>
+            <p>The Juſtice or Injuſtice of the War on either ſide, between <hi>Darius</hi> and <hi>Alexander,</hi> are made no part of the queſtion; but here are two Princes, both ſuppos'd <hi>Abſolute,</hi> with all <hi>Adam</hi>'s Power over their reſpective People, ſtaking their Kingdoms upon the chance of Battle; one of them is conquered and runs away; yet, according to our <hi>Ca<g ref="char:EOLhyphen"/>noniſts,</hi> the Conqueror is not entituled to the <hi>Fatherly</hi> or <hi>Patriarchal</hi> Power over the other's People; but it is ſuſpended, at leaſt, during the Life of the King that was beaten, and the Authority not ſetled all that while: and if the Monarchy was Hereditary, it may be yet more difficult when to fix the Settlement. If it is admitted to be <hi>Setled</hi> in the life-time of the ejected and conquer'd Prince, and that it is a duty <hi>to pray for the Life and Proſperity of the</hi> Conqueror, <hi>and upon no occaſion to offer any Violence to his</hi> Perſon <hi>or</hi> Kingdom; yet, according to theſe <hi>Canoniſts,</hi> they were bound, at leaſt, during the Life of the Conquered Prince, to give no active Aſ<g ref="char:EOLhyphen"/>ſiſtance to the other, in Perſon, or Contribution. And thus it might be allowable to mock <hi>God Almighty,</hi> while they pray for that, to which they will not contribute the means in their Power; or elſe their Prayers were to have ſuch a mental Reſervation, as ſome have, who pray for King <hi>James,</hi> while they pray for <hi>[The King].</hi> But if they were to pray for <hi>Alexander</hi>'s Proſperity without reſerve, one would think it was lawful, at leaſt, to Fight for him againſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Darius,</hi> notwithſtanding the Oath of Allegiance taken to <hi>Darius,</hi> by reaſon of the Authority which he had loſt.</p>
+            <p>If any one ſhall ſay, That this <hi>Convocation-Book</hi> was innocently publiſhed at this time, let him read the following <hi>Canon.</hi>
+            </p>
+            <p>
+               <hi>If ano Man therefore ſhall affirm,</hi>
+               <note place="margin">Can. 28.</note> 
+               <hi>either that the Sub<g ref="char:EOLhyphen"/>jects, when they ſhake off the Yoke of their Obedience to their Sovereigns, and ſet up a Form of Government among themſelves,</hi> after their own Humours, <hi>do not therein very wickedly; or that it is lawful for anh</hi> Bordering Kings, <hi>through</hi> Ambition <hi>and</hi> Malice, <hi>to</hi> Invade <hi>their Neighbours: Or that the Providence and Goodneſs to God, in uſing of Rebellions and Oppreſſions to execute his Iu<g ref="char:EOLhyphen"/>ſtice againſt anh King or Country, doth mitigate, or qualify the Offences of any ſuch</hi> Rebels, <hi>or</hi> Oppreſſing Kings; <hi>or that when han ſuch new Forms of Government, begun by Rebellion, are after</hi> thoroughly Setled, the Au<g ref="char:EOLhyphen"/>thority in them is not of God: <hi>or that any, who live with<g ref="char:EOLhyphen"/>in the Territories of ſuch new Governments,</hi> are not bound to be Subject to God's Authority, <hi>which is there exe<g ref="char:EOLhyphen"/>cuted, but may Rebel againſt the ſame: Or that the</hi>
+               <pb n="4" facs="tcp:108377:4"/> Jews, <hi>either in</hi> Egypt, <hi>or</hi> Babylon, <hi>might lawfully for any Cauſe, have taken Arms againſt any of thoſe Kings, or have offered any Violence to their Perſons,</hi> He doth great<g ref="char:EOLhyphen"/>ly Err.</p>
+            <p>If this be taken according to any rational, or ſo much as probable Account of Government in General, particularly applied to the <hi>Engliſh</hi> Conſtitution; I ſee no danger in admitting, that People ought not to throw off the Yoke of Obedience, and ſet up a Form of Government <hi>after their own Humours;</hi> and that it is not juſtifi<g ref="char:EOLhyphen"/>able in any <hi>Bordering King,</hi> or <hi>Prince,</hi> through <hi>Ambition</hi> and <hi>Ma<g ref="char:EOLhyphen"/>lice, to Invade his Neighbours.</hi> And yet this would not in the leaſt condemn either the People of <hi>England,</hi> in ſhaking off a former illegal and arbitary Yoak, while yet they retain the ancient Form, and Fundamental Rights of the Government; or our <hi>Preſent Sovereign</hi> in his Heroical Undertaking our <hi>Deliverance.</hi> But if all Princes are as Abſolute as their Notion makes them, the Nation had no Ground of complaint, and His Preſent Majeſty's Expedition would fall un<g ref="char:EOLhyphen"/>der the Imputation of <hi>Ambition,</hi> or <hi>Malice;</hi> 'tis certain, that no juſt cauſe could be aſſign'd for it upon their Principles; and yet theſe would as well condemn our <hi>Diſſenting Biſhops</hi> of Diſobe<g ref="char:EOLhyphen"/>dience to the <hi>Late King,</hi> in not complying with the Commands of a Prince, whom this Book would make Abſolute.</p>
+            <p>And of this, the <hi>Archbiſhop</hi> would have done well to have be<g ref="char:EOLhyphen"/>thought himſelf, when he gave his Licenſe for the <hi>Church-Mili<g ref="char:EOLhyphen"/>tant,</hi> to put on this old ruſty Armor, which hung up without uſe for above eighty years,<note place="margin">Vid. Adver<g ref="char:EOLhyphen"/>tiſement, called <hi>Anno</hi> 1603. conti<g ref="char:EOLhyphen"/>nued to 1610.</note> had been full three, if not not ſix Years in hammering out, and was brought forth in this Critical Time, to do Wonders for their ſuppos'd King of <hi>Divine Right,</hi> of their making, at leaſt, if not of God's. Whileſt the Clergy in that, and following times, Wrote, and Preached for Preferments, and Condemn'd all Notions which lay in their way to it; it is to be feared, that they incurr'd the Curſe pronounced from more Divine Authority, againſt him that <hi>removes his Neighbours Land-mark.</hi> And he that would Model the <hi>Engliſh</hi> Government by thoſe of the Eaſt of old, ſet up and maintain'd by Confuſion, would do well to tranſplant his Family into <hi>Turky,</hi> where he may find one of the trueſt Patterns of the fancied Patriarchal Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>But if that, or the <hi>Anticyrae,</hi> to which an old <hi>Roman</hi> would have adviſed them, be too far for them to Travel in their Canonical Habit; they may take a ſtep into <hi>France,</hi> where its Monarch aſſumes and ex<g ref="char:EOLhyphen"/>erciſes a Power according to their Primitive Stamp.</p>
+            <p>Yet the latter part of the foregoing <hi>Canon</hi> tells you, That you are bound to be ſubject to <hi>God's Authority,</hi> even in thoſe <hi>new Governments,</hi> which are ſet up <hi>after the Humours</hi> of the People. So that fully to maintain their <hi>Paſſive</hi> Character, even in the Caſe of Uſurpation, and Introducing a new Form, contrary to the Fundamental Conſtitution, they are bound to ſit ſtill, and never to Aſſiſt to Reſtore their <hi>Rightful</hi> Prince, or ancient Form of Government, but ſhould truſt Providence, or rather tempt it to forſake them, to their utter deſtruction.</p>
+            <p>But they who would be led by the Authority of theſe <hi>Canons,</hi> to con<g ref="char:EOLhyphen"/>demn our preſent Settlement, I hope will learn even from thence to ſubmit to it, and attempt nothing againſt it; and then I doubt not but there are brave <hi>Engliſh</hi> Men enough to defend it from all Foreign Force.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108377:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
